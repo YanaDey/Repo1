@@ -1,5 +1,5 @@
 def superfunction():
-    print("Привет питон")
+    print("Привет колледж")
 
 def main():
     print("Первый принт")
