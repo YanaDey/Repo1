@@ -1,3 +1,6 @@
+def superfunction():
+    print("Привет питон")
+
 def main():
     print("Первый принт")
     print("Второй принт")
